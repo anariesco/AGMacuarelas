@@ -67,6 +67,12 @@ p#direccion {
     }
 }
 
+p.text {
+  text-align: justify;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 ul.nav-1 li{
   display: inline-block;
   padding-right: 16px;
