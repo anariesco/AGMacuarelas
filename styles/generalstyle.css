@@ -114,6 +114,12 @@ ul.nav-2 li{
   border-color: #ce93d8;
 }
 
+@media only screen and (max-width: 450px) {
+    .nav-2 {
+  width: 90%;
+    }
+}
+
 .dropdown {
   position: relative;
   display: inline-block;
