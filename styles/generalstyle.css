@@ -137,6 +137,12 @@ a.contact-email{
   font-size:calc(14px + 3vw);
 }
 
+@media only screen and (max-width: 320px) {
+    a.contact-email {
+      font-size: 90%;
+    }
+}
+
 img.portrait {
   border-radius: 50%;
   width:calc(200px + 1.5vw);
