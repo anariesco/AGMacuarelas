@@ -227,3 +227,13 @@ footer {
   color: white;
   margin-top: 4%;
 }
+
+.large {
+  width: 90px;
+  padding-top: 25px;
+  padding-bottom: 60px;
+  font-size: 30px;
+  text-align:center;
+  margin:auto;
+  border-radius: 15px,
+}
