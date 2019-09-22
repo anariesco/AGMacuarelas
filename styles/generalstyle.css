@@ -223,6 +223,19 @@ img.agua-imagen {
     }
 }
 
+img.agua-imagen-special {
+  width:calc(300px + 1.5vw);
+  height: relative;
+  margin-top: 3%;
+}
+
+@media only screen and (max-width: 320px) {
+    img.agua-imagen {
+        width: 80%;
+        height: relative;
+    }
+}
+
 img.expo-imagen {
   width:calc(250px + 2vw);
   height: relative;
