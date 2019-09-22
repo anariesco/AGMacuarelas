@@ -224,7 +224,7 @@ img.agua-imagen {
 }
 
 img.agua-imagen-special {
-  width:calc(300px + 1.5vw);
+  width:calc(1px + 1.5vw);
   height: relative;
   margin-top: 3%;
 }
