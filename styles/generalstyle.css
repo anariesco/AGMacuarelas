@@ -115,6 +115,8 @@ ul.nav-2 li{
   display: inline-block;
   padding-right: 16px;
   font-size:calc(10px + 0.8vw);
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .nav-2 {
