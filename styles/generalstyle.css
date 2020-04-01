@@ -193,7 +193,7 @@ img.portrait {
 }
 
 img.firma {
-  width:calc(20px + 1.5vw);
+  width:calc(300px + 1.5vw);
   height: relative;
 }
 
