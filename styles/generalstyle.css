@@ -192,6 +192,11 @@ img.portrait {
   height: relative;
 }
 
+img.firma {
+  width:calc(200px + 1.5vw);
+  height: relative;
+}
+
 @media only screen and (max-width: 320px) {
     img.portrait {
         width: 50%;
